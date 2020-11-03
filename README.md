@@ -1,4 +1,4 @@
-# programa_guarda_aluno_rg_notas
+# Programa que guarda o Aluno, RG e Notas
 
 ## Programa que armazena X notas de Y alunos, RG, Data de Nascimento. Opções de Incluir, Alterar, Apagar e Listar.
 
